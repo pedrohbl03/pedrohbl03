@@ -35,7 +35,7 @@ Federal Institute of Education, Science and Technology of São Paulo
     <a target="_blank" href="https://www.linkedin.com/in/pedro-l-1158421a1/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a target="_blank" href="https://www.instagram.com/pedro.limaaa_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
     <a target="_blank" href="mailto:pedrohblima03@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-    <a target="_blank" href="tel:+5511964451184"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+    <a target="_blank" href="https://api.whatsapp.com/send?phone=5511964451184&text=Ol%C3%A1%20Pedro%2C%20encontrei%20seu%20contato%20no%20Github."><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
   </div>
 
 ### Games Social Medias
