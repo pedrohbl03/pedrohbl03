@@ -42,6 +42,6 @@ Federal Institute of Education, Science and Technology of São Paulo
 
   <div>
       <a target="_blank" href="https://steamcommunity.com/id/queotaphl/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/></a>
-      <a target="_blank" href="twitch.tv/phl_gg"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/></a>
+      <a target="_blank" href="https://twitch.tv/phl_gg"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/></a>
   </div>
 
