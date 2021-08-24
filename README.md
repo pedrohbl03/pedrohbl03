@@ -13,7 +13,7 @@
 ### About me
 - 🎓 Student of 
 Federal Institute of Education, Science and Technology of São Paulo
-- 🥰 I’m currently learning JavaScript 
+- 🥰 I’m currently learning JavaScript and React
 - 🎮 I love games
 - 🤝🏽 I love helping people
 - 💪🏽 Working as a team is very satisfying because everyone helps each other
