@@ -27,7 +27,7 @@ Federal Institute of Education, Science and Technology of São Paulo
   <img width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/javascript/javascript-plain.svg"/>
   <img width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/bootstrap/bootstrap-plain-wordmark.svg"/>
   <img width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/c/c-plain.svg"/>
-  
+  <img width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/node/node-plain.svg"/>
 </div>
 
 ### Contact-me at
