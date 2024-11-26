@@ -15,7 +15,7 @@
 Federal Institute of Education, Science and Technology of São Paulo
 - 🥰 I’m currently learning JavaScript, Node and React
 - 🎮 I love games
-- 🤝🏽 I love helping people
+- 🤝🏽 I love help people
 - 💪🏽 Working as a team is very satisfying because everyone helps each other
 
 
